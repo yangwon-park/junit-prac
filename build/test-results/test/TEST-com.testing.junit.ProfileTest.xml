@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.testing.junit.ProfileTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-27T08:51:04" hostname="yangwon-3.local" time="0.036">
+  <properties/>
+  <testcase name="matchAnswersTrueForAnyDontCareCriteria()" classname="com.testing.junit.ProfileTest" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
