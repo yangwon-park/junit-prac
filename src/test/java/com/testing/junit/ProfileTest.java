@@ -30,6 +30,7 @@ public class ProfileTest {
 
         assertThat(matches).isFalse();
     }
+
     @Test
     void matchAnswersTrueForAnyDontCareCriteria() {
         profile.add(new Answer(question, Bool.FALSE));
